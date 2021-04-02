@@ -2,4 +2,4 @@
 - 👀 I’m interested in ... Flutter and Cartoon
 - 🌱 I’m currently learning ... python,JS, SQL...
 - 💞️ "confia."
-- 📫 How to reach me ... linkedin/in/igorltdz
+- 📫 How to reach me ... linkedin.com/in/igorltdz
