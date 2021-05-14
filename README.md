@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Igorltdz
 - 👀 I’m interested in ... Flutter and Cartoon
-- 🌱 I’m currently learning ... python,JS, SQL...
+- 🌱 I’m currently learning ... Python,JS, SQL, Docker, flask, aws...
 - 💞️ "confia."
 - 📫 How to reach me ... linkedin.com/in/igorltdz
