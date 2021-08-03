@@ -1,5 +1,5 @@
 # only me
--  Hi, I’m @Igorltdz
+-  Hi, I’m @Igorltds
 - 💞️ I'm interested in... many things
 - 👨🏽‍🎓 I’m currently learning Python,JS, SQL, Docker, flask, AWS...
 - 📈 "Confia."
