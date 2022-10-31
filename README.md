@@ -8,7 +8,7 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="right" alt="foto_perfil" height="130em" style="border-radius:0px;" src="foto_perfil_desenho_02.jpeg">
+  <img align="right" alt="foto_perfil" height="150em" style="border-radius:0px;" src="foto_perfil_desenho_02.jpeg">
 </div>
   
 <div align="left">
