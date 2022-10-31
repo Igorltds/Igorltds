@@ -8,13 +8,13 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="right" alt="foto_perfil" height="150em" style="border-radius:0px;" src="foto_perfil_desenho_02.jpeg">
+  <img align="right" alt="foto_perfil" height="145em" style="border-radius:0px;" src="foto_perfil_desenho_02.jpeg">
 </div>
   
 <div align="left">
   <a href="https://github.com/Igorltds">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Igorltds&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorltds&layout=compact&langs_count=7&theme=dark"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Igorltds&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorltds&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
 <div align=left">
