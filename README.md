@@ -3,7 +3,7 @@
 
 
 <body>
-<h1> Oiee, Seja bem-vindo ao meu perfil (@Igorltds)👋 </h1>
+<h2> Oiee, Seja bem-vindo ao meu perfil (@Igorltds)👋 </h2>
 
 
 
@@ -17,12 +17,12 @@
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorltds&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
-<div align=left">
+<div align=center">
 
   ![Snake animation](https://github.com/igorltds/igorltds/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-
+<h1></h1>
 
 - Se quiser saber mais sobre mim de forma mais orgânica, recomendo meu linkedin:
 - Caso Queira entrar em contato, meu email:
